@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JazzApp", "JazzApp\JazzApp.csproj", "{10685CA3-0580-4BFE-85E8-133B59857898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JazzFtp", "..\JazzFtp\JazzFtp\JazzFtp.csproj", "{A7B3D312-BE5B-4FF2-98FE-5CA0071C20CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JazzFtp", "..\WinJazzFtp\JazzFtp\JazzFtp.csproj", "{A7B3D312-BE5B-4FF2-98FE-5CA0071C20CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
